@@ -1,0 +1,5 @@
+GET https://exercisedb.p.rapidapi.com/exercises
+x-rapidapi-key: f8fa836ffbmsh69f9dd27b667f01p1d2cb1jsnaa2a477cb985
+###
+GET https://exercisedb.p.rapidapi.com/exercises/target/glutes
+x-rapidapi-key: f8fa836ffbmsh69f9dd27b667f01p1d2cb1jsnaa2a477cb985
